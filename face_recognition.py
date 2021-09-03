@@ -153,7 +153,7 @@ while True:
             cv2.putText(image, "Hey narmada", (250, 450), cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
             cv2.imshow('Face Recognition', image )
             
-            email = 'muhamedelias.cs18@bitsathy.ac.in' # Your email
+            email = 'narmadam0201@gmail.com' # Your email
             password = 'xxxxxx' # Your email account password
             send_to_email = 'narmada.cs18@bitsathy.ac.in' # Who you are sending the message to
             message = 'This Mail has sent' # The message in the email
